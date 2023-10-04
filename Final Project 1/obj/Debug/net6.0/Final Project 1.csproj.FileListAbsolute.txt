@@ -1,0 +1,17 @@
+C:\Users\benal\source\repos\Final Project 1\bin\Debug\net6.0\Final Project 1.exe
+C:\Users\benal\source\repos\Final Project 1\bin\Debug\net6.0\Final Project 1.deps.json
+C:\Users\benal\source\repos\Final Project 1\bin\Debug\net6.0\Final Project 1.runtimeconfig.json
+C:\Users\benal\source\repos\Final Project 1\bin\Debug\net6.0\Final Project 1.dll
+C:\Users\benal\source\repos\Final Project 1\bin\Debug\net6.0\Final Project 1.pdb
+C:\Users\benal\source\repos\Final Project 1\obj\Debug\net6.0\Final Project 1.csproj.AssemblyReference.cache
+C:\Users\benal\source\repos\Final Project 1\obj\Debug\net6.0\Final Project 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benal\source\repos\Final Project 1\obj\Debug\net6.0\Final Project 1.AssemblyInfoInputs.cache
+C:\Users\benal\source\repos\Final Project 1\obj\Debug\net6.0\Final Project 1.AssemblyInfo.cs
+C:\Users\benal\source\repos\Final Project 1\obj\Debug\net6.0\Final Project 1.csproj.CoreCompileInputs.cache
+C:\Users\benal\source\repos\Final Project 1\obj\Debug\net6.0\Final Project 1.dll
+C:\Users\benal\source\repos\Final Project 1\obj\Debug\net6.0\refint\Final Project 1.dll
+C:\Users\benal\source\repos\Final Project 1\obj\Debug\net6.0\Final Project 1.pdb
+C:\Users\benal\source\repos\Final Project 1\obj\Debug\net6.0\Final Project 1.genruntimeconfig.cache
+C:\Users\benal\source\repos\Final Project 1\obj\Debug\net6.0\ref\Final Project 1.dll
+C:\Users\benal\source\repos\Final Project 1\obj\Debug\net6.0\Final_Project_1.Properties.Resources.resources
+C:\Users\benal\source\repos\Final Project 1\obj\Debug\net6.0\Final Project 1.csproj.GenerateResource.cache

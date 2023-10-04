@@ -1,0 +1,17 @@
+﻿┌           ┐  ┌           ┐59
+   attack         spells
+└           ┘  └           ┘
+┌           ┐  ┌           ┐
+    items           run
+└           ┘  └           ┘
+9
+
+* attack(chance to crit,)
+* spells(+def for 3 turn, chance to stun enemy, +attack dmg for 3 turn,incres crit chance)
+* use item(healing potion, Mana Potion,)
+* run(chance to run based on enemy level dif from player)
+
+
+
+
+             
